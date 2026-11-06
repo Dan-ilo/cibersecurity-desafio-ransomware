@@ -15,13 +15,6 @@ O projeto simula de forma simplificada o comportamento de um ransomware, demonst
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-* **Linguagem:** Python 3.x
-* **Plataforma Educacional:** Digital Innovation One (DIO)
-
----
-
 ## 🔬 Como Executar (Ambiente de Testes)
 
 > ❗ **Atenção:** Nunca execute códigos desse tipo na sua máquina principal. Utilize sempre uma Máquina Virtual (VM) isolada ou uma pasta de testes criada especificamente para este fim.
